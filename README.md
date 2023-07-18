@@ -7,5 +7,4 @@ Project Details
 program : Compressor-Decompressor project created using swing and java concepts.
 
 Repository Version
-
 Github Commit Version: #1.0.0
